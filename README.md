@@ -4,6 +4,7 @@ Repo to providee reproducible, end-to-end workflows, data sets and Python code t
 
 ## 📂 Repository Structure
 
+
 co2-wasp/
 │
 ├── Notebooks/
@@ -19,5 +20,8 @@ co2-wasp/
 │ License file (GPL-3.0)
 │
 └── README.md
+Project documentation
+
+
 
 
