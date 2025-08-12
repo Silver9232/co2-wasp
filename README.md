@@ -40,6 +40,7 @@ Install dependencies with:
 pip install -r requirements.txt
 
 🚀 ## Getting Started
+
 git clone https://github.com/Silver9232/co2-wasp.git
 cd co2-wasp
 
