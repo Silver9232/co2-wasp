@@ -23,5 +23,22 @@ co2-wasp
 Project documentation
 
 
+⚙️ ## Requirements
+
+    Python 3.8+
+
+    OPM Flow
+
+    scikit-learn
+
+    pandas, numpy, matplotlib, seaborn
+
+    Jupyter Notebook
+
+Install dependencies with:
+
+pip install -r requirements.txt
+
+
 
 
