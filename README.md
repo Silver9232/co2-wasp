@@ -4,7 +4,7 @@ Repo to providee reproducible, end-to-end workflows, data sets and Python code t
 
 ## 📂 Repository Structure
 
-co2-wasp
+**CO2-wasp**
 
 │
     ├── Notebooks
