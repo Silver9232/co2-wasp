@@ -23,7 +23,7 @@ co2-wasp
 Project documentation
 
 
-⚙️ ## Requirements
+## ⚙️ Requirements
 
     Python 3.8+
 
@@ -39,7 +39,7 @@ Install dependencies with:
 
 pip install -r requirements.txt
 
-🚀 ## Getting Started
+## 🚀 Getting Started
 
 git clone https://github.com/Silver9232/co2-wasp.git
 cd co2-wasp
