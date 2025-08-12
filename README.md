@@ -6,17 +6,17 @@ Repo to providee reproducible, end-to-end workflows, data sets and Python code t
 
 co2-wasp
 │
-├── Notebooks
+    ├── Notebooks
 │ Jupyter notebooks for analysis, model training, and visualization
 │
-├── PYfiles
+    ├── PYfiles
 │ Python scripts for workflows, automation, and model execution
 │
-├── data
+    ├── data
 │ Input datasets and simulation results
 │
 ├── LICENSE
-│ License file (GPL-3.0)
+    │ License file (GPL-3.0)
 │
 └── README.md
 
